@@ -6,8 +6,8 @@ I followed along with [this video](https://www.youtube.com/watch?v=wOVEe9eawXc) 
 
 ### Screenshots:
 
-![Start]( 2048-clone/screenshots/Screen Shot 2022-03-09 at 22.54.50.png )
+![Start](./screenshots/Screen Shot 2022-03-09 at 22.54.50.png)
 
-![Mid-Game]( 2048-clone/screenshots/Screen Shot 2022-03-09 at 22.55.14.png )
+![Mid-Game](./screenshots/Screen Shot 2022-03-09 at 22.55.14.png)
 
-![Lost]( 2048-clone/screenshots/Screen Shot 2022-03-10 at 08.53.17.png )
+![Lost](./screenshots/Screen Shot 2022-03-10 at 08.53.17.png)
